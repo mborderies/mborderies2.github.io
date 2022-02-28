@@ -5,14 +5,15 @@ body {
 }
 
 main {
-		background-color: light pink;
+		background-color: lightpink;
 		padding: 5px;
-		border: solid 5px light blue;
+		border: solid 5px paleturquoise;
 		margin: 5vh;
 }
 
 p {
-		color: rgb(255, 180, 193);
+		color: plum;
 		font-family: Garamond;
 		font-size: 22px;
+		text-align: center;
 }
