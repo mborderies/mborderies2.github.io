@@ -1,0 +1,18 @@
+
+body {
+		background-color: light blue;
+
+}
+
+main {
+		background-color: light pink;
+		padding: 5px;
+		border: solid 5px light blue;
+		margin: 5vh;
+}
+
+p {
+		color: rgb(255, 180, 193);
+		font-family: Garamond;
+		font-size: 22px;
+}
