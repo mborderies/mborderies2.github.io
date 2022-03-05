@@ -1,19 +1,23 @@
 
+title {
+	background-color: lightblue;
+}
 body {
-		background-color: light blue;
+		background-color: lightblue;
 
 }
 
 main {
 		background-color: lightpink;
-		padding: 5px;
+		padding: 5px plum;
 		border: solid 5px paleturquoise;
 		margin: 5vh;
 }
-
+ 
 p {
-		color: plum;
+		color: rebeccapurple;
 		font-family: Garamond;
 		font-size: 22px;
 		text-align: center;
+
 }

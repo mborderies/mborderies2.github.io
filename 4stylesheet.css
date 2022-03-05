@@ -1,0 +1,48 @@
+
+body {
+	background-color: wheat;
+}
+
+#eyes {
+	text-align:center;
+	padding: 8vw;
+	background-color: wheat;
+}
+
+button {
+	padding: 8vw;
+	border: solid 25px;
+	border-radius: 30px;
+}
+button: hover {
+	background-color: darkred;
+}
+
+#nose {
+	height: 35vh;
+	width: 15px;
+	background color: burlywood;
+	border: solid 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#mouth {
+	display:flex;
+	align-content: center;
+	border: solid maroon;
+	border:; solid 15px;
+}
+
+#mouth p {
+	background-color: maroon;
+	width: 40px;
+	padding:5vw;
+	border: solid 20px;
+}
+
+#teeth {
+	flex-grow:2;
+	margin:7px;
+	background-color:white;
+}
