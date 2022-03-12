@@ -20,18 +20,15 @@ main {
 
 h1 {
 	font-family: 'Annie Use Your Telescope', cursive;
-	position: relative;
 	text-align: center;
-	top: 0;
 	width: 500;
-	margin-top: 0;
 	border: 10px lemonchiffon;
 	background: plum;
 	padding: 10px;
 	margin: 10px;
-	)
+}
 
-#h2 {
+#headtwo {
 	font-family: 'Annie Use Your Telescope', cursive;
 	position: fixed;
 	text-align: center;
