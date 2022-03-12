@@ -73,13 +73,9 @@ span {
 	font-size: 18px;
 }
 
-.box {
+.imageColumn{
 	float: left;
-	width: 30%;
-	height: auto
-	margin-right:1%;
-	margin-bottom: .5em;
-	border-radius: 2px lightpink;
-	padding: 2px lemonchiffon;
+	width: 25%;
+	padding: 10px lemonchiffon;
 
 }
