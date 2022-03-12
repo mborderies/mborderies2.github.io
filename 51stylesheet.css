@@ -13,8 +13,8 @@ body {
 main {
 		font-family:Garamond;
 		background-color: lightpink;
-		padding: 5px plum;
-		border: solid 5px paleturquoise;
+		padding: 25px lemonchiffon;
+		border: solid 15px plum;
 		margin: 5vh;
 }
 
@@ -28,11 +28,11 @@ h1 {
 	margin: 10px;
 }
 
-#headtwo {
+h2 {
 	font-family: 'Annie Use Your Telescope', cursive;
 	text-align: center;
 	border: 10px lemonchiffon;
-	padding: 10px;
+	padding: 10px lightpink;
 	margin: 10px;
 	background: plum;
 }
