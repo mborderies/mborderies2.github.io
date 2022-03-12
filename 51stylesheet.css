@@ -1,28 +1,40 @@
 
+@font-face {
+	font-family: myFont;
+	src: url(birds-of-paradise.ttf);
 }
-title {
-	background-color: lightblue;
-}
+
 body {
-		background-color: lightblue;
+		font-family: Garamond;
+		background-color: plum;
 		width: 500px;
 		height: 1400px;
 		margin: 0 auto;
 
 }
+
 main {
+		font-family:Garamond;
 		background-color: lightpink;
 		padding: 5px plum;
 		border: solid 5px paleturquoise;
 		margin: 5vh;
 }
+
 h1 {
+	font-family: myFont;
 	position: fixed;
 	top: 0;
 	width: 500;
 	margin-top: 0;
 	background: plum;
 	padding: 10px;
+	
+h2 {
+	font-family: myFont;
+	position: fixed;
+	background: plum;
+}
 }
 p:nth-of-type(1){
 	margin-top: 60px;
