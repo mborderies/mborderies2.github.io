@@ -20,22 +20,22 @@ main {
 
 h1 {
 	font-family: 'Annie Use Your Telescope', cursive;
-	position: fixed;
+	position: relative;
 	text-align: center;
 	top: 0;
 	width: 500;
 	margin-top: 0;
-	border: 3px lightblue;
+	border: 10px lemonchiffon;
 	background: plum;
 	padding: 10px;
 	margin: 10px;
 	)
 
-h2 {
+#h2 {
 	font-family: 'Annie Use Your Telescope', cursive;
 	position: fixed;
 	text-align: center;
-	border: 3px lightblue;
+	border: 10px lemonchiffon;
 	padding: 10px;
 	margin: 10px;
 	background: plum;
@@ -59,3 +59,25 @@ span {
         background: lightgreen;
         border: 0px;
       }
+
+.positioned {
+	position: relative;
+	top: 30px;
+	left: 20px;
+	background: lightpink;
+
+}
+
+.positioned2 {
+	position: relative;
+	top: 10px;
+	right: 22px;
+	background: thistle;
+}
+
+.positioned3 {
+	position: relative;
+	top: 20px;
+	left: 40px;
+	background: powderblue;
+}
