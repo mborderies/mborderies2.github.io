@@ -25,16 +25,22 @@ h1 {
 	top: 0;
 	width: 500;
 	margin-top: 0;
+	border: 3px lightblue;
 	background: plum;
 	padding: 10px;
+	margin: 10px;
+	)
 
 h2 {
 	font-family: 'Annie Use Your Telescope', cursive;
 	position: fixed;
 	text-align: center;
+	border: 3px lightblue;
+	padding: 10px;
+	margin: 10px;
 	background: plum;
 }
-}
+
 p:nth-of-type(1){
 	margin-top: 60px;
 }
@@ -49,3 +55,7 @@ p {
         margin: 10px;
 
 }
+span {
+        background: lightgreen;
+        border: 0px;
+      }
