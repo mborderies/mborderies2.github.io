@@ -1,8 +1,5 @@
 
-@font-face {
-	font-family: myFont;
-	src: url(birds-of-paradise.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&display=swap');
 
 body {
 		font-family: Garamond;
@@ -22,7 +19,7 @@ main {
 }
 
 h1 {
-	font-family: myFont;
+	font-family: 'Annie Use Your Telescope', cursive;
 	position: fixed;
 	text-align: center;
 	top: 0;
@@ -32,7 +29,7 @@ h1 {
 	padding: 10px;
 
 h2 {
-	font-family: myFont;
+	font-family: 'Annie Use Your Telescope', cursive;
 	position: fixed;
 	text-align: center;
 	background: plum;
