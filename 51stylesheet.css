@@ -60,14 +60,15 @@ span {
 	position: relative;
 	top: 30px;
 	left: 90px;
-	background: lightpink;
+	background: thistle;
+	padding: 10px powderblue;
 
 }
 
 .positioned2 {
 	position: relative;
 	top: 10px;
-	right: 22px;
+	right: 72px;
 	background: thistle;
 	font-size: 14;
 }
@@ -77,4 +78,5 @@ span {
 	top: 20px;
 	left: 40px;
 	background: powderblue;
+	padding: 10px thistle;
 }
