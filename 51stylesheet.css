@@ -24,15 +24,17 @@ main {
 h1 {
 	font-family: myFont;
 	position: fixed;
+	text-align: center;
 	top: 0;
 	width: 500;
 	margin-top: 0;
 	background: plum;
 	padding: 10px;
-	
+
 h2 {
 	font-family: myFont;
 	position: fixed;
+	text-align: center;
 	background: plum;
 }
 }
@@ -40,9 +42,13 @@ p:nth-of-type(1){
 	margin-top: 60px;
 }
 p {
-color: rebeccapurple;
+		background-color: plum;
 		font-family: Garamond;
 		font-size: 22px;
 		text-align: center;
+		color: rebeccapurple;
+		border: 3px lightblue;
+        padding: 10px;
+        margin: 10px;
 
 }
