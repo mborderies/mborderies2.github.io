@@ -1,0 +1,36 @@
+
+}
+title {
+	background-color: lightblue;
+}
+body {
+		background-color: lightblue;
+		width: 500px;
+		height: 1400px;
+		margin: 0 auto;
+
+}
+main {
+		background-color: lightpink;
+		padding: 5px plum;
+		border: solid 5px paleturquoise;
+		margin: 5vh;
+}
+h1 {
+	position: fixed;
+	top: 0;
+	width: 500;
+	margin-top: 0;
+	background: plum;
+	padding: 10px;
+}
+p:nth-of-type(1){
+	margin-top: 60px;
+}
+p {
+color: rebeccapurple;
+		font-family: Garamond;
+		font-size: 22px;
+		text-align: center;
+
+}
