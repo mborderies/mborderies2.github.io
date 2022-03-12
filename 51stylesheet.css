@@ -22,15 +22,10 @@ h1 {
 	font-family: 'Annie Use Your Telescope', cursive;
 	text-align: center;
 	color: rebeccapurple;
-	width: 500;
 	border: 10px lemonchiffon;
 	background: plum;
-	padding: 10px;
+	padding: 10px lightpink;
 	margin: 10px;
-}
-
-p:nth-of-type(1){
-	margin-top: 60px;
 }
 p {
 		background-color: plum;
@@ -73,9 +68,15 @@ span {
 	font-size: 18px;
 }
 
-.imageColumn{
+.boxes {
+	width: 50%;
 	float: left;
-	width: 25%;
-	padding: 10px lemonchiffon;
+}
 
+#mainDiv {
+	width: 50%;
+	margin:auto;
+}
+img{
+	max-width: 100%;
 }
