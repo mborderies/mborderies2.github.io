@@ -66,7 +66,6 @@ span {
 	background: powderblue;
 	padding: 10px thistle;
 	font-size: 18px;
-	z-index: 1;
 }
 
 .boxes {
@@ -79,7 +78,6 @@ span {
 	position: absolute;
 	width: 100%;
 	margin:auto;
-	z-index: 2;
 }
 img{
 	position: absolute;
