@@ -69,17 +69,14 @@ span {
 }
 
 .boxes {
-	position: absolute;
 	width: 50%;
 	float: left;
 }
 
 #mainDiv {
-	position: absolute;
-	width: 100%;
+	width: 80%;
 	margin:auto;
 }
 img{
-	position: absolute;
 	max-width: 100%;
 }
