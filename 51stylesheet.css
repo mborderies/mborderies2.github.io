@@ -71,13 +71,13 @@ span {
 
 .boxes {
 	position: absolute;
-	width: 100%;
+	width: 50%;
 	float: left;
 }
 
 #mainDiv {
 	position: absolute;
-	width: 100%;
+	width: 50%;
 	margin:auto;
 	z-index: 2;
 }
