@@ -1,0 +1,118 @@
+
+body {
+	background-color: lightsteelblue;
+}
+
+main {
+	background: whitesmoke;
+	display: flex;
+	margin: 5vw solid crimson;
+	border: 5px solid whitesmoke;
+	padding: 5vw solid: crimson;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+
+p{
+	background-color: lightsteelblue;
+	padding: 8vw;
+	border: 5px solid crimson;
+	font-size: 33px;
+	font-color: crimson;
+	font-family: Garamond;
+	text-align: center;
+
+}
+
+.pagefooter {
+	background-color: crimson;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	border: 2px solid whitesmoke;
+	padding: 2px;
+}
+.pagebutton {
+	padding: 1px solid lightsteelblue;
+	border: 1px solid whitesmoke;
+	margin: 1vw solid crimson;
+	font-family: Garamond;
+	font-size: 14px;
+	font-color: crimson;
+}
+footer {
+	background-color: crimson;
+	display: flex;
+	justify-content: center;
+	justify-content: space-around;
+	border:5px solid whitesmoke;
+}
+
+footer:hover {
+	background-color: lightsteelblue ;
+}
+
+footer button {
+	padding: 5vw solid lightsteelblue;
+	border: 5px solid whitesmoke;
+	margin: 5vw solid crimson;
+}
+
+button {
+	background-color: whitesmoke;
+	padding: 5vw;
+	border: 5px;
+	margin: 5vw;
+	font-family: Garamond;
+	font-size: 33px;
+	font-color: crimson;
+
+}
+button:hover {
+	background-color: crimson;
+	font-size: 50px;
+	color: whitesmoke ;
+}
+
+.container {
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+.container2{
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
+
+.text {
+	padding: 3px;
+	border: 2px solid crimson;
+	margin: 4vw;
+	font-family: Garamond;
+	font-size: 18px;
+	background-color: lightsteelblue;
+}
+
+.text2 {
+	padding: 4px;
+	border: 2px solid crimson;
+	margin: 4vw;
+	font-family: Garamond;
+	font-size: 28px;
+	background-color: lightsteelblue;
+}
+
+.caption {
+	padding: 2px;
+	border: 2px solid lightsteelblue;
+	margin: 2vw;
+	font-family: Garamond;
+	font-size: 16px;
+	background-color: whitesmoke;
+}
