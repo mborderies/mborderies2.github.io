@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+body {
+	background-color: whitesmoke;
+	font-family: Quicksand;
+	text-align: center;
+}
+main {
+	background-color: whitesmoke;
+}
+
+p {
+	font-family: Quicksand;
+	font-size: 100px;
+	text-align: center;
+}
+
+button {
+	border-radius: 100px;
+	height: 200px;
+	width: 200px;
+	stroke: 0px;
+	font-family: Quicksand;
+	font-size: 25px;
+}
+
+button:hover {
+	height: 400px;
+	width: 400px;
+	border-radius: 200px;
+	font-size: 50px;
+
+}
+
+.container {
+	flex-direction: row;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.container2 {
+	flex-direction: column;
+}
+
+.red {
+	background-color: crimson;
+	border-width: 0px;
+}
+
+.blue {
+	background-color: steelblue;
+	border-width: 0px;
+}
+
+.yellow {
+	background-color: gold;
+	border-width: 0px;
+}
+
+.green {
+	background-color: olivedrab;
+	border-width: 0px;
+}
+
+.colors {
+	text-align: left;
+	font-size: 50px;
+}
+
+section {
+	display: flex;
+}
+
+article {
+	flex: 1;
+}
+
+article:nth-of-type(3) {
+	flex: 2;
+	display: flex;
+	flex-flow: wrap;
+	align-items: center;
+	justify-content: space-around;
+	}
+
+img {
+	width: 200px;
+	height: 120px;
+}
