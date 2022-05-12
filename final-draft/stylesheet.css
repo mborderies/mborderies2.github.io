@@ -4,6 +4,7 @@ body {
 	background-color: whitesmoke;
 	font-family: Quicksand;
 	text-align: center;
+	padding: 5px;
 }
 main {
 	background-color: whitesmoke;
@@ -13,6 +14,7 @@ p {
 	font-family: Quicksand;
 	font-size: 100px;
 	text-align: center;
+	padding: 15px;
 }
 
 button {
@@ -32,6 +34,10 @@ button:hover {
 
 }
 
+img:hover {
+	padding: 20px;
+}
+
 .container {
 	flex-direction: row;
 	justify-content: space-around;
@@ -46,14 +52,26 @@ button:hover {
 	border-width: 0px;
 }
 
+.redbody{
+	background-color: darkred;
+}
+
 .blue {
-	background-color: steelblue;
+	background-color: navy;
 	border-width: 0px;
 }
 
+.bluebody {
+	background-color: midnightblue;
+}
+
 .yellow {
-	background-color: gold;
+	background-color: palegoldenrod;
 	border-width: 0px;
+}
+
+.yellowbody {
+	background-color: khaki;
 }
 
 .green {
@@ -61,11 +79,26 @@ button:hover {
 	border-width: 0px;
 }
 
+.greenbody {
+	background-color: darkolivegreen;
+}
+
 .colors {
 	text-align: left;
 	font-size: 50px;
 }
 
+.text {
+	font-size: 30px;
+}
+
+.text2 {
+	font-size: 25px;
+}
+
+.smalltext {
+	font-size: 50px;
+}
 section {
 	display: flex;
 }
@@ -85,4 +118,5 @@ article:nth-of-type(3) {
 img {
 	width: 200px;
 	height: 120px;
+	
 }
